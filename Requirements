@@ -1,0 +1,13 @@
+Home Library 
+Requirements
+
+1.	I want to be able to search books by their title, author’s name, publisher’s name and by genre.
+2.	Each book will have a unique ID number, and to help physically locate the book= a shelf number.
+3.	There could be titles published by different publishers and in different years (=different editions treated as separate book items).
+4.	Only one copy of each title exists in the Library.
+5.	A book can have multiple authors.
+6.	Family/ friends can borrow books and I would like to be able to monitor who borrows what book at what date and the return date.
+
+7.  The Database will be stored on my personal laptop.
+8.  DB Browser for SQLite will be used for accessing the DB.
+
